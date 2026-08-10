@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: vyvod-deneg-s-kazino-na-kivi-koshelek.github.io
+Sitemap: https://vyvod-deneg-s-kazino-na-kivi-koshelek.github.io/sitemap.xml
